@@ -1,0 +1,17 @@
+.links a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px 0;
+    text-decoration: none;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.links a:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+    color: #fff;
+}
